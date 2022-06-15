@@ -58,5 +58,9 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+      "npm": "^6.14.15",
+      "node": "^14.17.6"
+    },
   "proxy": "http://192.168.29.21:4000"
 }
