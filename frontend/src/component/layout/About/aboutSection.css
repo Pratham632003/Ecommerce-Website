@@ -82,12 +82,13 @@
 }
 
 .youtubeSvgIcon {
-  color: tomato;
+  color: blue;
 }
 
 .instagramSvgIcon {
-  color: rgb(144, 81, 202);
+  color: rgb(227, 51, 80);
 }
+
 
 @media screen and (max-width: 600px) {
   .aboutSectionContainer > div {
